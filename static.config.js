@@ -1,7 +1,7 @@
 import path from "path";
 
 export default {
-  siteRoot: "https://tapadi.uno",
+  siteRoot: "/",
   plugins: [
     [
       require.resolve("react-static-plugin-source-filesystem"),
