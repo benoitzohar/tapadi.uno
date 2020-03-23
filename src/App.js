@@ -13,7 +13,7 @@ export default function App() {
         <div className="avatar">
           <Avatar />
         </div>
-        <h1>Hey I'm Ben 👋</h1>
+        <h1>Hey, I'm Ben 👋</h1>
         <h2>
           When I'm bored I create <b>silly</b>, <b>funny</b> or <b>useless</b>{" "}
           apps and websites.
